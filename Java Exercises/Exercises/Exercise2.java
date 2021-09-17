@@ -16,6 +16,8 @@ public class Exercise2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //User enters date. Program determines successor date
+        
         Scanner sc = new Scanner(System.in);
         int nDays = 0;
         boolean leapYear = false;
