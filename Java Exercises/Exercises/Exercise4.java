@@ -18,6 +18,9 @@ public class Exercise4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //User enters number & program determines if it's a perfect number
+        //Perfect number: all its factors added up equals the number
+        
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         int num2 = 0;
