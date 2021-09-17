@@ -16,6 +16,8 @@ public class Exercise3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Creates Multiplication Table
+        
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int counter = 1;
