@@ -15,6 +15,8 @@ public class Exercise1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Creating Boolean Conditions
+        
         // x > 0 && x % 2 == 1
         // x > 0 && x % 10 == 0
         // x < 0 && x % 5 == 1
