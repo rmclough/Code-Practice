@@ -17,6 +17,8 @@ public class Exercise5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Takes a 4-digit number & encrypts it
+        
         Scanner sc = new Scanner(System.in);
         
         int num = sc.nextInt();
